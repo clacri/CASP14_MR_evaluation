@@ -5,7 +5,10 @@ This repository contains the data and notebooks used for the analysis described 
 ## reLLG evaluation
 
 Contains two notebooks, one per each category (prediction and refinement) as well as all the raw data required to run them
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
 ## LLG evaluation
 
 Contains a notebook and two tables with the information required to run the analysis. It can be opened in collab and see the tables and plots but it is not currently supporting its running there. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/CASP14_MR_evaluation/blob/main/LLG_assesment/assess_casp14_MR_paper.ipynb)
