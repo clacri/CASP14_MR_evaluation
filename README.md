@@ -1,6 +1,6 @@
 # CASP14_MR_evaluation
 
-This repository contains the data and notebooks used for the analysis described in the manuscript "Assessing the utility of CASP14 models for molecular replacement", found at https://doi.org/10.22541/au.162412334.48194370/v1 in Authorea and in ..... in Bioarxiv.
+This repository contains the data and notebooks used for the analysis described in the manuscript "Assessing the utility of CASP14 models for molecular replacement", found at https://onlinelibrary.wiley.com/doi/10.1002/prot.26214
 
 ## reLLG evaluation
 
